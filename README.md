@@ -1,5 +1,5 @@
 # FREE TPU V3+ for FPGA
-***UPDATE @ 2023.02***<br>
+***UPDATE @ 2023.05***<br>
 ***Free TPU***  is the free version of a commercial AI processor (EEP-TPU) for Deep Learning EDGE Inference, which was first released four years ago.
 After four years R&D, EEP-TPU has evolved into the second-generation architecture with V3+ version, and has been embedded in three ASIC chips to achieve mass production.
 
