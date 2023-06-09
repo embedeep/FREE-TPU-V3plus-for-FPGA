@@ -31,6 +31,8 @@ NOW, Free-TPU V3+, the free version of EEP-TPU V3+, is released.<br>
 + A open-source SDK 
 + A Compiler for Pytorch, Caffe, Darknet and NCNN framework
 
+***User also can download compressed git-project from baidu Netdisk link: https://pan.baidu.com/s/1-2hEask121Wpk3I3E_YdyQ  passwd: fkdn , and the passwd of compressed file is Embedeep***
+
 ### Performance of Free-TPU V3+
 The performance of Free-TPU V3+ is highly dependent on the configuration, IP frequency and DDR memory bandwidth. We show the latency of a single-core ASIC design with 1GHZ frequency (2TFLOPS/4TOPS) as follow:
 
